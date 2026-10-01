@@ -1,0 +1,34 @@
+EMPLOYMENT CONTRACT
+
+This Employment Contract is entered into between ABC Technology Sdn. Bhd. ("the Company") 
+and the Employee named below.
+
+1. POSITION AND COMMENCEMENT
+The Employee is employed as a Software Developer commencing 1 January 2025.
+
+2. SALARY
+The Employee shall receive a monthly salary of RM 3,500 payable at the end of each month.
+
+3. WORKING HOURS
+The Employee shall work 8 hours per day, Monday to Friday.
+
+4. PROBATION
+The Employee shall serve a probationary period of 6 months from the date of commencement.
+
+5. ANNUAL LEAVE
+The Employee is entitled to 12 days of annual leave per year.
+
+6. NON-COMPETE
+The Employee agrees that for a period of 24 months after the termination of employment, 
+they shall not join any competitor or start any competing business in Malaysia or worldwide.
+
+7. DEDUCTION
+The Company reserves the right to deduct from the Employee's salary any losses, damages, 
+or shortfalls caused by the Employee, including recovery of training loan up to 80% of monthly wages.
+
+8. CONFIDENTIALITY
+The Employee shall keep all proprietary information and trade secrets strictly confidential 
+during and after employment, with no time limitation.
+
+9. GOVERNING LAW
+This agreement shall be governed by the laws of Malaysia.
