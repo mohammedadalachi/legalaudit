@@ -108,11 +108,12 @@ legalaudit/
 
 ## Team
 
-Built by a group of students. Add names and GitHub links here:
+Built as a university group project.
 
-- [Your Name](https://github.com/mohammedadalachi)
-- Teammate Name
+- [Dalachi Mohammed Abderrahmane](https://github.com/mohammedadalachi)
+
 
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
