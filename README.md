@@ -6,7 +6,7 @@ Upload a contract (PDF, scan, image or plain text), pick the document type, and 
 
 > Built as a university group project for an AI principles course. It is a learning project, not legal advice.
 
-<!-- Add a screenshot or GIF here: ![LegalAudit demo](docs/demo.gif) -->
+**[Watch the demo video](https://drive.google.com/file/d/1h3_VtHazYTa1bpvD-sJTFTKNZE1_sLwz/view)**
 
 ## What it does
 
@@ -116,4 +116,5 @@ Built as a university group project.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
 
