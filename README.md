@@ -4,7 +4,7 @@ A rule-based expert system that checks Malaysian employment contracts and reside
 
 Upload a contract (PDF, scan, image or plain text), pick the document type, and get back a risk-rated report that cites the exact statute behind each issue. The report can be exported as a PDF.
 
-> Built as a university group project for the course Introduction to Intelligence Application. It is a learning project, not legal advice.
+> Built as a university group project for AIT103 Introduction to Intelligence Application. It is a learning project, not legal advice.
 
 **[Watch the demo video](https://drive.google.com/file/d/1h3_VtHazYTa1bpvD-sJTFTKNZE1_sLwz/view)**
 
@@ -116,6 +116,7 @@ Built as a university group project.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
 
 
 
