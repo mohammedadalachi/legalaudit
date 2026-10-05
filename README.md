@@ -104,6 +104,7 @@ legalaudit/
 ├── pdf_report.py          PDF report generator
 ├── templates/index.html   Web interface
 ├── samples/               Test contracts
+├── research/              Keyword vs learned classifier study
 └── requirements.txt
 ```
 
