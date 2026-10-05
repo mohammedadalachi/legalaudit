@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img" aria-label="LegalAudit">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60a5fa"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="900" height="200" rx="24" fill="#0d1f4f"/>
+<g transform="translate(50,40)"><rect x="14" y="4" width="92" height="112" rx="10" fill="none" stroke="url(#g)" stroke-width="7"/><path d="M36 40h48M36 62h48" stroke="url(#g)" stroke-width="7" stroke-linecap="round"/><path d="M38 92l14 14 30-32" fill="none" stroke="url(#g)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="210" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">LegalAudit</text>
+<text x="212" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="url(#g)">Malaysian contract auditor</text>
+</svg>

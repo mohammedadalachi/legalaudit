@@ -1,4 +1,4 @@
-# LegalAudit
+<img src="docs/logo.svg" alt="LegalAudit" width="560">
 
 ![Python](https://img.shields.io/badge/python-3.10-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-university%20project-lightgrey)
 
