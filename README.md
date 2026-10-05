@@ -129,7 +129,7 @@ The `research/` folder measures how the keyword engine compares with TF-IDF clas
 - Keywords find almost every standard clause and almost no paraphrase. TF-IDF finds more paraphrases but invents a rule on most clauses that match none.
 - Overall F1 does not separate the methods at this sample size.
 
-Limits: the clauses were written for this study with AI assistance, so the paraphrase results are a stress test and not an estimate for real contracts. The author has reviewed every label. Embedding, fine-tuned and LLM methods have not been run. Details are in [research/README.md](research/README.md).
+Limits: the clauses were written for this study with AI assistance, so the paraphrase results are a stress test and not an estimate for real contracts. Embedding, fine-tuned and LLM methods have not been run. Details are in [research/README.md](research/README.md).
 ## Author
 
 Dalachi Mohammed Abderrahmane ([@mohammedadalachi](https://github.com/mohammedadalachi))
