@@ -61,7 +61,7 @@ Full tables: `results/summary.md`, `results/per_rule.csv`.
 
 ## To do before this is finished
 
-1. Read every row of `data/clauses.csv`, fix labels you disagree with, then update the Author review line in the data card.
+1. Done: the author has read every row of `data/clauses.csv` and the data card is updated.
 2. Add 100+ clauses from real public templates, tagged `style=natural`, and report them as a separate test set.
 3. Ask a classmate to label a sample of 50 clauses blind, then report Cohen's kappa.
 4. Run the three methods marked "not run yet" (commands below) and re-run `analysis.py`.

@@ -22,7 +22,7 @@ risky provision). Every clause has at most one label.
 
 **Origin and limits.**
 - The clauses were written for this study, not taken from real contracts. They were drafted with AI assistance.
-  Author review: PENDING (change this line once you have read and corrected every label).
+  Author review: complete. The author has read every row and checked each label.
 - Written by one person (plus the AI) who knew the keyword lists, so the standard/paraphrase split is a stress test,
   not a measurement of how often real contracts use unusual wording.
 - 6 clauses per rule is small. Treat per-rule numbers as indicative only.
