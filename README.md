@@ -104,6 +104,7 @@ legalaudit/
 ├── pdf_report.py          PDF report generator
 ├── templates/index.html   Web interface
 ├── samples/               Test contracts
+├── research/              Keyword vs learned classifier study
 └── requirements.txt
 ```
 
@@ -114,6 +115,21 @@ legalaudit/
 - OCR quality depends on scan quality
 - Output is informational only and is not a substitute for a lawyer
 
+## Research: keywords vs learned classifiers
+
+The `research/` folder measures how the keyword engine compares with TF-IDF classifiers on 266 clauses labelled for the 38 rule topics. Five-fold cross-validation, same folds for every method.
+
+| method | micro F1 (95% CI) | recall: standard wording | recall: paraphrase | false alarms on non-rule clauses |
+|---|---|---|---|---|
+| keywords (as shipped) | 0.59 (0.54-0.64) | 0.97 | 0.03 | 3% |
+| keywords, whole-word match | 0.59 (0.54-0.65) | 0.94 | 0.01 | 3% |
+| TF-IDF + logistic regression | 0.52 (0.46-0.59) | 0.58 | 0.47 | 58% |
+
+- Matching keywords as substrings caused false findings (`nda` inside "calendar", `cat` inside "vacates"). This branch matches whole words instead. Precision rose from 0.72 to 0.79 and recall fell from 0.50 to 0.47. Output on both sample contracts is unchanged.
+- Keywords find almost every standard clause and almost no paraphrase. TF-IDF finds more paraphrases but invents a rule on most clauses that match none.
+- Overall F1 does not separate the methods at this sample size.
+
+Limits: the clauses were written for this study with AI assistance, so the paraphrase results are a stress test and not an estimate for real contracts. The author has reviewed every label. Embedding, fine-tuned and LLM methods have not been run. Details are in [research/README.md](research/README.md).
 ## Author
 
 Dalachi Mohammed Abderrahmane ([@mohammedadalachi](https://github.com/mohammedadalachi))

@@ -336,7 +336,7 @@ def _find_matching_keyword(keywords: list, text: str) -> str | None:
         try:
             kw_clean    = _normalise(kw)
             kw_flexible = kw_clean.replace("-", "[- ]?")
-            if re.search(kw_flexible, text):
+            if re.search(r"\b" + kw_flexible + r"\b", text):
                 return kw
         except re.error as e:
             log.warning("Regex error for keyword '%s': %s , skipping", kw, e)

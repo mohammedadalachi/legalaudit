@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+# only for run_embeddings.py / run_finetune.py / run_llm.py
+sentence-transformers
+torch
+transformers
+anthropic
