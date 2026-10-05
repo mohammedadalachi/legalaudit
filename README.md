@@ -6,6 +6,8 @@
 
 A rule-based expert system that checks Malaysian employment contracts and residential tenancy agreements against the law, then explains every finding.
 
+![LegalAudit input screenshot](docs/screenshot-input.png)
+
 ![LegalAudit report screenshot](docs/screenshot.png)
 
 Upload a contract (PDF, scan, image or plain text), pick the document type, and get back a risk-rated report that cites the exact statute behind each issue. The report can be exported as a PDF.
