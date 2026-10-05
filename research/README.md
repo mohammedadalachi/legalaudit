@@ -39,7 +39,7 @@ Full tables: `results/summary.md`, `results/per_rule.csv`.
    ```python
    if re.search(r"\b" + kw_flexible + r"\b", text):
    ```
-   Check the effect on both sample contracts before adopting it.
+   Checked on both sample contracts: the output is identical before and after the change (14 and 13 findings), so the samples do not exercise this bug. The fix is applied in `inference_engine.py` on this branch.
 2. **Overall F1 does not separate the methods.** The keyword intervals and the TF-IDF interval overlap. With 266 clauses
    I cannot claim a winner.
 3. **The methods fail in opposite places.** Keywords recover almost every standard clause and almost no paraphrase
