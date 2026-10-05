@@ -1,6 +1,12 @@
 # LegalAudit
 
+![Python](https://img.shields.io/badge/python-3.10-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-university%20project-lightgrey)
+
+![stack](https://icon-marquee.giann.dev/v1/icons?i=py,flask,html,css,js)
+
 A rule-based expert system that checks Malaysian employment contracts and residential tenancy agreements against the law, then explains every finding.
+
+![LegalAudit report screenshot](docs/screenshot.png)
 
 Upload a contract (PDF, scan, image or plain text), pick the document type, and get back a risk-rated report that cites the exact statute behind each issue. The report can be exported as a PDF.
 
