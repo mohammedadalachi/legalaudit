@@ -1,0 +1,267 @@
+id,doc_type,text,labels,style
+C001,employment,Either party may terminate this contract by giving the other party four weeks' written notice.,E001,standard
+C002,employment,The notice period for termination shall be two months for the Employee and two months for the Company.,E001,standard
+C003,employment,Employment may be ended by either party by serving 60 days notice in writing.,E001,standard
+C004,employment,"Should the Employee wish to resign, the Company must be told at least one month before the final working day.",E001,paraphrase
+C005,employment,The Company may end this contract on giving the Employee six weeks' prior warning of the end date.,E001,paraphrase
+C006,employment,Resignation takes effect only after the Employee has worked out the full two months stated in the offer letter.,E001,paraphrase
+C007,employment,The Employee shall be entitled to 14 days of annual leave per calendar year.,E002,standard
+C008,employment,Annual leave entitlement increases to 16 days after five years of service.,E002,standard
+C009,employment,Paid leave of 12 days per year shall be granted after the first year of service.,E002,standard
+C010,employment,"After completing a year with the Company, the Employee may take twelve working days away from work each year without loss of pay.",E002,paraphrase
+C011,employment,"Holiday entitlement under this contract is 18 working days, to be scheduled with the manager's approval.",E002,paraphrase
+C012,employment,"Time away for rest and recreation, fully paid, accrues at one day per month of service.",E002,paraphrase
+C013,employment,The Employee is entitled to 14 days of paid sick leave per year on production of a medical certificate.,E003,standard
+C014,employment,Hospitalisation leave of up to 60 days shall be provided where the Employee is warded.,E003,standard
+C015,employment,Absence due to illness must be supported by a medical certificate from a registered practitioner.,E003,standard
+C016,employment,"If the Employee is unwell and cannot work, the Company will keep paying salary for up to fourteen days a year.",E003,paraphrase
+C017,employment,"Where a doctor orders bed rest, the Employee remains on full pay for the days stated by the doctor, subject to the annual cap.",E003,paraphrase
+C018,employment,Time away for treatment in hospital is covered for up to sixty days in addition to ordinary absence for ill health.,E003,paraphrase
+C019,employment,A female Employee is entitled to 98 days of maternity leave for each confinement.,E004,standard
+C020,employment,Paternity leave of seven days shall be granted to married male employees.,E004,standard
+C021,employment,Maternity benefit shall be paid in accordance with the Employment Act 1955.,E004,standard
+C022,employment,"A mother-to-be shall be given 98 consecutive days away from work around the birth of her child, on full pay.",E004,paraphrase
+C023,employment,New fathers may claim seven days of paid absence after their wife gives birth.,E004,paraphrase
+C024,employment,The Company recognises the needs of new parents and will follow the statutory minimums for time away after a baby arrives.,E004,paraphrase
+C025,employment,"Normal working hours are 8 hours per day, Monday to Friday, 9am to 6pm.",E005,standard
+C026,employment,The Employee shall not be required to work more than 45 hours per week.,E005,standard
+C027,employment,The Employee may be required to work in shifts as determined by the Company.,E005,standard
+C028,employment,The Employee is expected at the office from nine in the morning until six in the evening on weekdays.,E005,paraphrase
+C029,employment,"A working week under this contract shall not exceed forty-five hours, spread over five or six days.",E005,paraphrase
+C030,employment,Daily attendance is from 8.30am to 5.30pm with a one hour lunch break.,E005,paraphrase
+C031,employment,Overtime shall be paid at 1.5 times the hourly rate of pay for work on normal days.,E006,standard
+C032,employment,Overtime pay for work on rest days is 2 times the ordinary rate.,E006,standard
+C033,employment,Any extra hours worked must be approved in advance and will be compensated.,E006,standard
+C034,employment,Work done after the normal finishing time will be paid at one and a half times the hourly rate.,E006,paraphrase
+C035,employment,"Employees earning RM 4,000 or less are paid more for any time worked past the standard day, at premium rates set by law.",E006,paraphrase
+C036,employment,"The Company will not require more than 104 additional hours a month, and these must be paid at the statutory multiplier.",E006,paraphrase
+C037,employment,The Employee is entitled to one rest day in every week.,E007,standard
+C038,employment,Sunday shall be the weekly rest for all employees.,E007,standard
+C039,employment,"The Employee shall have two days off each week, Saturday and Sunday.",E007,standard
+C040,employment,Each week the Employee must be given one full day free from all work duties.,E007,paraphrase
+C041,employment,No employee shall be made to work seven days in a row without a free day.,E007,paraphrase
+C042,employment,Saturdays and Sundays are not working days unless the Company states otherwise in writing.,E007,paraphrase
+C043,employment,The Employee is entitled to all gazetted holidays declared by the Federal Government.,E008,standard
+C044,employment,The Employee shall be entitled to at least eleven paid public holidays per year including National Day.,E008,standard
+C045,employment,Cuti umum shall be observed in accordance with the Holidays Act 1951.,E008,standard
+C046,employment,"The office is closed on Hari Raya, Deepavali, Chinese New Year and other days declared by the government as days of national observance.",E008,paraphrase
+C047,employment,"If a festival day falls on a Sunday, the next working day shall be given in its place.",E008,paraphrase
+C048,employment,Work on a day the government has set aside for celebration shall be paid at three times the daily rate.,E008,paraphrase
+C049,employment,"The Employee shall receive a monthly salary of RM 4,000 payable on the last working day of each month.",E009,standard
+C050,employment,Salary payment shall be made by bank transfer not later than the seventh day after the end of the wage period.,E009,standard
+C051,employment,The Company shall pay all wages through payroll on the 25th of every month.,E009,standard
+C052,employment,"The Employee will be paid RM 3,200 at the end of each calendar month into the bank account given to HR.",E009,paraphrase
+C053,employment,Pay shall be credited no later than the seventh day after the month ends.,E009,paraphrase
+C054,employment,Compensation for the work done will be transferred on the final working day of every month.,E009,paraphrase
+C055,employment,The Company may make deductions from the Employee's salary for any loss or damage caused by the Employee.,E010,standard
+C056,employment,Any advance given to the Employee shall be recovered through salary deduction in full.,E010,standard
+C057,employment,The Company reserves the right to withhold wages pending the return of company property.,E010,standard
+C058,employment,"Where the Employee owes the Company money for any reason, the Company may take it out of the Employee's pay without further notice.",E010,paraphrase
+C059,employment,"Training costs will be taken back from the Employee's pay, up to the full amount, if the Employee leaves within two years.",E010,paraphrase
+C060,employment,The Company may keep back part of the final month's pay to cover any shortfall.,E010,paraphrase
+C061,employment,The Employee shall serve a probationary period of three months from the commencement date.,E011,standard
+C062,employment,Upon successful completion of probation the Employee shall be confirmed in writing.,E011,standard
+C063,employment,The Company may extend the probation by up to three months.,E011,standard
+C064,employment,"The first six months of employment are a trial period, during which the Company will assess suitability for the role.",E011,paraphrase
+C065,employment,After three months the Company will decide whether to offer the Employee a permanent position.,E011,paraphrase
+C066,employment,During the initial trial period the Employee's performance will be reviewed monthly by the manager.,E011,paraphrase
+C067,employment,The Employee agrees to a non-compete obligation for 24 months after leaving the Company.,E012,standard
+C068,employment,"The Employee shall not, for two years after termination, engage in any competing business in Malaysia.",E012,standard
+C069,employment,This restrictive covenant shall apply to all employees at manager level and above.,E012,standard
+C070,employment,"After leaving, the Employee must not work for any firm in the same industry for a period of 18 months.",E012,paraphrase
+C071,employment,The Employee shall not approach the Company's clients or persuade its staff to resign for 12 months after the last working day.,E012,paraphrase
+C072,employment,"For two years following the end of employment, the Employee may not set up or join any similar venture anywhere in South-East Asia.",E012,paraphrase
+C073,employment,The Company has adopted a sexual harassment policy and shall conduct an inquiry on every complaint.,E013,standard
+C074,employment,The Employee shall comply with the Company's code of conduct at all times.,E013,standard
+C075,employment,Workplace harassment of any kind is prohibited and will result in disciplinary action.,E013,standard
+C076,employment,"Unwelcome advances or comments of a sexual nature are not tolerated, and complaints will be investigated by a panel.",E013,paraphrase
+C077,employment,The Company will treat any report of improper behaviour of a sexual nature privately and act on it promptly.,E013,paraphrase
+C078,employment,Employees who feel they have been made uncomfortable by a colleague's behaviour can lodge a complaint with HR.,E013,paraphrase
+C079,employment,This contract shall be governed by the laws of Malaysia.,E014,standard
+C080,employment,The courts of Malaysia shall have exclusive jurisdiction over any dispute arising from this contract.,E014,standard
+C081,employment,Any dispute shall be settled by arbitration in Kuala Lumpur.,E014,standard
+C082,employment,Malaysian courts alone may decide any disagreement that arises under this agreement.,E014,paraphrase
+C083,employment,Any claim relating to this contract will be heard in Kuala Lumpur under Malaysian legislation.,E014,paraphrase
+C084,employment,"Disagreements shall first be referred to mediation and, if unresolved, to the Industrial Court.",E014,paraphrase
+C085,employment,The Employee shall keep all confidential information of the Company secret during and after employment.,E015,standard
+C086,employment,The Employee agrees to sign a non-disclosure agreement upon commencement.,E015,standard
+C087,employment,The Employee shall not disclose any trade secret or proprietary information to third parties.,E015,standard
+C088,employment,"Nothing learned about the Company's customers, pricing or plans may be shared with outsiders, even after leaving.",E015,paraphrase
+C089,employment,The Employee must not pass on any internal documents or client lists to anyone outside the Company.,E015,paraphrase
+C090,employment,"All know-how acquired in the course of work shall remain private, and this duty survives termination.",E015,paraphrase
+C091,employment,The Company shall contribute to the Employees Provident Fund at the rate of 13% of monthly wages.,E016,standard
+C092,employment,Both parties shall make mandatory contributions to KWSP as required by law.,E016,standard
+C093,employment,EPF contributions will be deducted from salary and remitted by the 15th of each month.,E016,standard
+C094,employment,The Company will pay into the Employee's retirement savings account at the rate required by statute.,E016,paraphrase
+C095,employment,"A portion of the Employee's pay is set aside each month for old age savings, matched by the employer as the law requires.",E016,paraphrase
+C096,employment,Statutory pension contributions for the Employee will be paid by the employer every month.,E016,paraphrase
+C097,employment,The Company shall register the Employee under SOCSO and pay the required contributions.,E017,standard
+C098,employment,The Employee is covered under the Employment Insurance System (EIS) in accordance with law.,E017,standard
+C099,employment,PERKESO contributions shall be shared between employer and employee as prescribed.,E017,standard
+C100,employment,The Company shall enrol the Employee in the national scheme that provides benefits if the Employee is injured or disabled.,E017,paraphrase
+C101,employment,Contributions to the government social protection scheme will be paid by both sides every month.,E017,paraphrase
+C102,employment,"Upon loss of job, the Employee may claim benefits under the national job-loss protection scheme.",E017,paraphrase
+C103,employment,"The monthly salary shall not be less than the minimum wage of RM 1,700 prescribed by law.",E018,standard
+C104,employment,The Company confirms that the basic wage paid complies with the Minimum Wages Order 2022.,E018,standard
+C105,employment,In no case shall the Employee be paid below the minimum salary fixed by the government.,E018,standard
+C106,employment,The Employee's pay will always meet or exceed the lowest rate that the law allows an employer to pay.,E018,paraphrase
+C107,employment,"The Company undertakes that earnings will never fall under the statutory floor, currently RM 1,700 a month.",E018,paraphrase
+C108,employment,"If the legal wage floor is raised, the Employee's pay will be increased to match.",E018,paraphrase
+C109,employment,The Company shall pay the HRDF levy in respect of the Employee as required by law.,E019,standard
+C110,employment,The Company is registered with HRD Corp and the Employee may attend approved training.,E019,standard
+C111,employment,The Employee is eligible for training funded by the training levy.,E019,standard
+C112,employment,The Company contributes to the national skills development fund and will support the Employee's approved courses.,E019,paraphrase
+C113,employment,"Employees may apply for sponsored courses, which the Company recovers from a government scheme to which it pays a levy.",E019,paraphrase
+C114,employment,A monthly contribution of 1% of wages is paid by the employer for workforce skills upgrading.,E019,paraphrase
+C115,employment,The Company shall be liable for any workplace injury suffered by the Employee in the course of employment.,E020,standard
+C116,employment,Compensation for industrial accident shall be paid in accordance with the Workmen's Compensation Act.,E020,standard
+C117,employment,The Company maintains personal accident insurance for all employees.,E020,standard
+C118,employment,"If the Employee is hurt while carrying out duties, the Company will pay for treatment and lost income.",E020,paraphrase
+C119,employment,Medical expenses arising from an accident occurring during working hours will be borne by the Company or its insurer.,E020,paraphrase
+C120,employment,The Employee is protected by the Company's insurance if harmed on the job.,E020,paraphrase
+C121,employment,This Employment Contract is entered into between ABC Technology Sdn. Bhd. (the Company) and the Employee named in the Schedule.,,none
+C122,employment,The Employee is employed as a Software Developer commencing 1 January 2026.,,none
+C123,employment,The Employee shall report to the Head of Engineering or any person designated by the Company.,,none
+C124,employment,The Employee shall perform the duties set out in the job description and any other reasonable duties assigned by the Company.,,none
+C125,employment,The Employee shall devote full time and attention to the business of the Company.,,none
+C126,employment,This contract constitutes the entire agreement between the parties and supersedes all prior discussions.,,none
+C127,employment,No amendment to this contract shall be valid unless made in writing and signed by both parties.,,none
+C128,employment,"If any provision of this contract is held to be invalid, the remaining provisions shall continue in force.",,none
+C129,employment,"The Employee shall return all company equipment, including laptops and access cards, on the last day of employment.",,none
+C130,employment,Signed by the parties on the date first written above.,,none
+C131,employment,The Employee declares that all information given during recruitment is true and accurate.,,none
+C132,employment,Any notice required under this contract shall be sent to the address stated in the Schedule.,,near_miss
+C133,employment,The Employee shall inform the Company in writing of any change in residential address or contact number.,,near_miss
+C134,employment,"The Employee may be required to travel within Malaysia for business purposes, with expenses reimbursed by the Company.",,near_miss
+C135,employment,The Company shall provide a laptop and a mobile phone for work purposes.,,near_miss
+C136,employment,The Employee shall comply with all reasonable instructions and safety rules while on the Company's premises.,,near_miss
+C137,employment,The Employee shall not accept gifts from suppliers above RM 200 without approval.,,near_miss
+C138,employment,The Employee is entitled to a staff discount of 10% on the Company's products.,,near_miss
+C139,employment,The Company may require the Employee to attend training sessions during working hours.,,near_miss
+C140,employment,The Employee's job title and department may be changed by the Company from time to time.,,near_miss
+C141,employment,Disputes between colleagues at the workplace shall first be raised with the immediate supervisor.,,near_miss
+C142,tenancy,The tenancy period shall be twelve months commencing on 1 March 2026 and ending on 28 February 2027.,T001,standard
+C143,tenancy,"The term of tenancy is two years, with the commencement date being 1 June 2026.",T001,standard
+C144,tenancy,The tenancy shall commence on the start date stated in the Schedule and continue until the expiry date.,T001,standard
+C145,tenancy,The Tenant may occupy the premises for one year starting from the day the keys are handed over.,T001,paraphrase
+C146,tenancy,"This agreement runs for 24 months, beginning 15 July 2026.",T001,paraphrase
+C147,tenancy,The Tenant's right to stay in the property lasts from 1 January 2027 until 31 December 2027.,T001,paraphrase
+C148,tenancy,"The monthly rent shall be RM 2,200 payable by the Tenant to the Landlord.",T002,standard
+C149,tenancy,"The rental amount is RM 1,800 per month, inclusive of maintenance fees.",T002,standard
+C150,tenancy,"Rent of RM 3,000 per month shall be paid without any set-off.",T002,standard
+C151,tenancy,"The Tenant agrees to pay the Landlord RM 2,500 every month for the use of the property.",T002,paraphrase
+C152,tenancy,"For the use of the unit, the Tenant shall hand over RM 1,500 monthly.",T002,paraphrase
+C153,tenancy,"The sum payable each month for occupation is RM 2,000, fixed for the first year.",T002,paraphrase
+C154,tenancy,The Tenant shall pay a security deposit equivalent to two months' rent upon signing this agreement.,T003,standard
+C155,tenancy,"The deposit is refundable within 14 days after the Tenant vacates, less any deductions for damage.",T003,standard
+C156,tenancy,"A damage deposit of RM 4,400 shall be held by the Landlord during the tenancy.",T003,standard
+C157,tenancy,"On signing, the Tenant shall give the Landlord RM 5,000 to be held as security and returned when the tenancy ends.",T003,paraphrase
+C158,tenancy,The Landlord holds two months' rent as a safeguard against unpaid rent or damage and will give it back at the end if nothing is owed.,T003,paraphrase
+C159,tenancy,A one-off sum equal to three months of rent is kept by the Landlord to cover any breach by the Tenant.,T003,paraphrase
+C160,tenancy,"The Tenant shall pay a utility deposit of RM 500, refundable upon settlement of all outstanding bills.",T004,standard
+C161,tenancy,A water deposit and an electricity deposit shall be paid directly to the respective providers.,T004,standard
+C162,tenancy,The Tenant shall settle every utility bill before the end of the tenancy.,T004,standard
+C163,tenancy,"An additional sum of RM 300 is payable to cover unpaid water, power and internet charges at the end of the tenancy.",T004,paraphrase
+C164,tenancy,"The Tenant shall place a further sum aside for outstanding charges of gas, water and electricity.",T004,paraphrase
+C165,tenancy,A separate refundable amount is collected to guarantee payment of the Tenant's electricity and water consumption.,T004,paraphrase
+C166,tenancy,The rent is payable in advance on or before the first of the month.,T005,standard
+C167,tenancy,The due date for rent is the 5th day of each month.,T005,standard
+C168,tenancy,Payment shall be paid on the 7th of every month by bank transfer.,T005,standard
+C169,tenancy,The Tenant must settle each month's rent no later than the fifth day of that month.,T005,paraphrase
+C170,tenancy,Rent for any month falls to be paid before that month begins.,T005,paraphrase
+C171,tenancy,Payments are to reach the Landlord's bank account by the 10th of each month.,T005,paraphrase
+C172,tenancy,This agreement shall be stamped with the Inland Revenue Board within 30 days of signing.,T006,standard
+C173,tenancy,Stamp duty on this agreement shall be borne by the Tenant.,T006,standard
+C174,tenancy,The parties shall ensure this tenancy agreement is duly stamped under the Stamp Act 1949.,T006,standard
+C175,tenancy,The cost of having this agreement registered with the tax authority shall be shared equally between the parties.,T006,paraphrase
+C176,tenancy,The Landlord shall bear the government duty payable on this document.,T006,paraphrase
+C177,tenancy,This agreement is not valid evidence in court until the official government charge on it has been paid.,T006,paraphrase
+C178,tenancy,Either party may terminate this tenancy by giving two months' written notice to the other party.,T007,standard
+C179,tenancy,The notice period for termination is three months.,T007,standard
+C180,tenancy,The Tenant shall give notice to vacate not less than one month before the intended date.,T007,standard
+C181,tenancy,"If the Tenant wants to leave before the end of the term, the Landlord must be told at least sixty days beforehand.",T007,paraphrase
+C182,tenancy,"Before ending the tenancy, either side must give the other two full months of warning.",T007,paraphrase
+C183,tenancy,The Landlord can require the Tenant to leave only after giving the Tenant ninety days to prepare.,T007,paraphrase
+C184,tenancy,The Landlord shall be responsible for major structural repairs to the premises.,T008,standard
+C185,tenancy,The Tenant shall keep the premises clean and bear the cost of minor maintenance such as changing light bulbs.,T008,standard
+C186,tenancy,The Tenant is not liable for fair wear and tear.,T008,standard
+C187,tenancy,Anything that breaks through ordinary use will be fixed at the Landlord's cost; damage caused by the Tenant's carelessness will be fixed at the Tenant's cost.,T008,paraphrase
+C188,tenancy,The Tenant shall look after the house and promptly tell the Landlord of any leak or fault.,T008,paraphrase
+C189,tenancy,"Small fixes under RM 200 are the Tenant's job, and larger works belong to the owner.",T008,paraphrase
+C190,tenancy,The Tenant shall not sublet or assign the premises without the prior written consent of the Landlord.,T009,standard
+C191,tenancy,Subletting of any part of the property is strictly prohibited.,T009,standard
+C192,tenancy,The Tenant is not permitted to sublet or part with possession of the premises.,T009,standard
+C193,tenancy,No other person may be allowed to live in the premises in exchange for rent without the Landlord's agreement.,T009,paraphrase
+C194,tenancy,The Tenant may not hand the property over to somebody else to occupy.,T009,paraphrase
+C195,tenancy,Only the Tenant and the family members named in the Schedule may stay in the unit.,T009,paraphrase
+C196,tenancy,The Landlord may enter the premises for inspection upon giving 24 hours prior notice.,T010,standard
+C197,tenancy,The Landlord has the right to inspect the property once every three months.,T010,standard
+C198,tenancy,The Landlord shall have access to property in an emergency without prior notice.,T010,standard
+C199,tenancy,The owner may visit the unit to check its condition provided the Tenant is told a day beforehand.,T010,paraphrase
+C200,tenancy,"In case of fire or flooding, the Landlord may come in at any time without asking.",T010,paraphrase
+C201,tenancy,The Landlord's representatives may show the property to prospective buyers at reasonable times.,T010,paraphrase
+C202,tenancy,The premises shall be used for residential purposes only.,T011,standard
+C203,tenancy,The Tenant shall not use the property for business or commercial activities.,T011,standard
+C204,tenancy,Permitted use: domestic use as a private dwelling.,T011,standard
+C205,tenancy,The unit may be used only as a home for the Tenant and the Tenant's family.,T011,paraphrase
+C206,tenancy,"Running a shop, office or any trade from the property is not allowed.",T011,paraphrase
+C207,tenancy,The Tenant must not use the premises for any unlawful or immoral activity.,T011,paraphrase
+C208,tenancy,"If the Tenant terminates early, the deposit shall be forfeited in full.",T012,standard
+C209,tenancy,The Tenant shall pay liquidated damages equal to two months' rent for early termination.,T012,standard
+C210,tenancy,A penalty of one month's rent applies if the Tenant leaves before the end of the lock-in period.,T012,standard
+C211,tenancy,A Tenant who moves out before the agreed end date loses the whole of the sum held by the Landlord and must also pay the rent for the remaining months.,T012,paraphrase
+C212,tenancy,Leaving before the lock-in period expires will cost the Tenant three months' rent as a charge.,T012,paraphrase
+C213,tenancy,"Should the Tenant end the tenancy sooner than agreed, the Landlord keeps everything paid in advance.",T012,paraphrase
+C214,tenancy,The Tenant may renew the tenancy for a further term of one year by giving two months' notice.,T013,standard
+C215,tenancy,"There is an option to renew on terms to be agreed, with rent increased by no more than 10%.",T013,standard
+C216,tenancy,The tenancy may be extended by mutual written agreement.,T013,standard
+C217,tenancy,"At the end of the term, the Tenant has first right to stay for another year if the Tenant gives early notice of this wish.",T013,paraphrase
+C218,tenancy,"If both sides agree, the Tenant can continue to live in the premises beyond the original period at a revised rent.",T013,paraphrase
+C219,tenancy,The Landlord shall let the Tenant know three months before expiry whether a further term will be offered.,T013,paraphrase
+C220,tenancy,This agreement shall be governed by the laws of Malaysia.,T014,standard
+C221,tenancy,The parties submit to the exclusive jurisdiction of the Malaysian courts.,T014,standard
+C222,tenancy,Any dispute resolution shall be conducted in Kuala Lumpur.,T014,standard
+C223,tenancy,Any disagreement arising from this tenancy will be decided by the courts of this country.,T014,paraphrase
+C224,tenancy,Malaysian courts alone shall hear claims under this agreement.,T014,paraphrase
+C225,tenancy,Any disputes will be brought before the Magistrate's Court in the district where the property is located.,T014,paraphrase
+C226,tenancy,An inventory list of the furniture and appliances is attached as Schedule 2.,T015,standard
+C227,tenancy,The premises are let fully furnished with the fixtures and fittings listed in the Schedule.,T015,standard
+C228,tenancy,The Tenant acknowledges receipt of the items provided as itemised in the schedule of condition.,T015,standard
+C229,tenancy,"A list of everything in the unit, such as the sofa, bed and air-conditioners, forms part of this agreement.",T015,paraphrase
+C230,tenancy,The Tenant has checked the appliances on the first day and agrees with the attached list.,T015,paraphrase
+C231,tenancy,Any item listed in the Schedule that is lost or broken must be replaced by the Tenant at equal value.,T015,paraphrase
+C232,tenancy,Late payment of rent shall attract a late fee of RM 50 per week.,T016,standard
+C233,tenancy,Interest on late payment shall be charged at 8% per annum.,T016,standard
+C234,tenancy,Any overdue rental shall bear a late charge of 1.5% per month.,T016,standard
+C235,tenancy,"If rent is not received within seven days of the due date, the Tenant shall pay an additional 5% on the unpaid amount.",T016,paraphrase
+C236,tenancy,Delays in paying rent will cost the Tenant an extra charge of RM 100 for each week of delay.,T016,paraphrase
+C237,tenancy,Rent that remains unpaid after the grace period carries a daily surcharge.,T016,paraphrase
+C238,tenancy,No pets are allowed in the premises without the written consent of the Landlord.,T017,standard
+C239,tenancy,"The Tenant may keep one cat, subject to payment of a pet deposit of RM 500.",T017,standard
+C240,tenancy,Dogs are not permitted on the premises.,T017,standard
+C241,tenancy,"The Tenant shall not keep any animals in the unit, whether inside or on the balcony.",T017,paraphrase
+C242,tenancy,Household companions such as cats or dogs may be kept only with the owner's agreement.,T017,paraphrase
+C243,tenancy,"Keeping birds, fish, or any other living creatures in the premises requires the Landlord's prior approval.",T017,paraphrase
+C244,tenancy,"On expiry of the tenancy, the Tenant shall return the property in the same condition as at the start, subject to fair wear and tear.",T018,standard
+C245,tenancy,The Tenant shall give vacant possession of the premises at the end of tenancy.,T018,standard
+C246,tenancy,"Upon the Tenant's move out, the Landlord shall inspect the property and the condition of property shall be recorded.",T018,standard
+C247,tenancy,"When leaving, the Tenant must leave the house empty, clean, and in the state it was received.",T018,paraphrase
+C248,tenancy,"At the close of the agreement, the unit should be handed back with keys and free of the Tenant's belongings.",T018,paraphrase
+C249,tenancy,"Before the final day, the Tenant must remove all personal items and have the unit professionally cleaned.",T018,paraphrase
+C250,tenancy,This Tenancy Agreement is made between the Landlord and the Tenant named in the Schedule.,,none
+C251,tenancy,The Landlord is the registered owner of the property described in the Schedule.,,none
+C252,tenancy,This agreement constitutes the entire agreement between the parties.,,none
+C253,tenancy,No variation of this agreement shall be effective unless in writing and signed by both parties.,,none
+C254,tenancy,"If any provision is held invalid, the remaining provisions shall remain in effect.",,none
+C255,tenancy,Signed by the parties on the date first written above.,,none
+C256,tenancy,Words in the singular include the plural and vice versa.,,none
+C257,tenancy,The Tenant shall not cause nuisance or annoyance to neighbouring occupants.,,near_miss
+C258,tenancy,The Tenant shall observe the rules of the management corporation regarding parking and use of common facilities.,,near_miss
+C259,tenancy,The Tenant shall allow only registered vehicles to park in the designated bay.,,near_miss
+C260,tenancy,The Tenant shall not install any satellite dish or alter the exterior of the building.,,near_miss
+C261,tenancy,Any notice under this agreement shall be sent to the address of the party stated in the Schedule.,,near_miss
+C262,tenancy,The Tenant shall inform the Landlord of any change in contact number.,,near_miss
+C263,tenancy,The Landlord shall pay the quit rent and assessment on the property.,,near_miss
+C264,tenancy,The Tenant shall insure personal belongings at the Tenant's own risk.,,near_miss
+C265,tenancy,The Landlord shall not be liable for any loss of the Tenant's belongings.,,near_miss
+C266,tenancy,The Tenant shall comply with all laws and regulations of the relevant local authority.,,near_miss
